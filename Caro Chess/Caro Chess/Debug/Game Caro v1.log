@@ -1,0 +1,3 @@
+﻿  Controllers.cpp
+D:\ThanVV\Desktop\Fsoft\Code\New folder\Game Caro v1\Controllers.cpp(66): warning C4715: 'Controllers::catchEvent': not all control paths return a value
+  Game Caro v1.vcxproj -> D:\ThanVV\Desktop\Fsoft\Code\New folder\Game Caro v1\Debug\Game Caro v1.exe
