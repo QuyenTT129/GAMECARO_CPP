@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\Caro_ComandLine\Caro_CommandLine\Debug\CaroOOP.exe
+C:\Users\Admin\source\repos\CaroOOP\CaroOOP\Debug\CaroOOP.exe

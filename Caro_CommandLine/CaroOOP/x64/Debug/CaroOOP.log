@@ -1,0 +1,15 @@
+﻿  Board.cpp
+  Controller.cpp
+  Data.cpp
+C:\Users\Admin\source\repos\Caro_CommandLine\CaroOOP\Data.cpp(35,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\Caro_CommandLine\CaroOOP\Data.cpp(76,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Data.h
+  main.cpp
+  Match.cpp
+  Player.cpp
+  Replay.cpp
+  Generating Code...
+C:\Users\Admin\source\repos\Caro_CommandLine\CaroOOP\Match.cpp(28): warning C4715: 'Match::checkChar': not all control paths return a value
+C:\Users\Admin\source\repos\Caro_CommandLine\CaroOOP\Match.cpp(108): warning C4715: 'Match::checkWin': not all control paths return a value
+x64\Debug\Data.obj : warning LNK4042: object specified more than once; extras ignored
+  CaroOOP.vcxproj -> C:\Users\Admin\source\repos\Caro_CommandLine\x64\Debug\CaroOOP.exe

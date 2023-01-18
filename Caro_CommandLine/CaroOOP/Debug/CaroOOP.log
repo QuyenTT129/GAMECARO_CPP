@@ -1,0 +1,5 @@
+﻿  Replay.cpp
+C:\Users\Admin\source\repos\CaroOOP\CaroOOP\Replay.cpp(23,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\CaroOOP\CaroOOP\Replay.cpp(28,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\CaroOOP\CaroOOP\Replay.cpp(76,23): warning C4018: '<': signed/unsigned mismatch
+  CaroOOP.vcxproj -> C:\Users\Admin\source\repos\CaroOOP\Debug\CaroOOP.exe

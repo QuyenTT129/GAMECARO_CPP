@@ -1,0 +1,8 @@
+
+QUYEN 20 0 0
+TRAN 11 1 0
+TUAN 5 0 0
+Loser 0 0 15
+Messi 1 0 5
+LOL 1 0 1
+POP 0 0 1
